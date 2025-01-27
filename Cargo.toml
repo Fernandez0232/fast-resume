@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Find that one coding agent session you want to get back to!"
 # handle the edge case from the last release
+# handle the edge case from the last release
