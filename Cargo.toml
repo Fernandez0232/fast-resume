@@ -6,3 +6,4 @@ description = "Find that one coding agent session you want to get back to!"
 # handle the edge case from the last release
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# clarify the control flow
