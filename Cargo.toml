@@ -33,3 +33,4 @@ description = "Find that one coding agent session you want to get back to!"
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# clarify the control flow
